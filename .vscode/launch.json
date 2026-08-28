@@ -2,14 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-<<<<<<< HEAD
-      "name": "Flutter",
-      "request": "launch",
-      "type": "dart"
-    }
-  ]
-}
-=======
       "name": "Debug SST",
       "type": "node",
       "request": "launch",
@@ -56,4 +48,3 @@
     }
   ]
 }
->>>>>>> fb63053334bb36748da262fb6c96c441e0c4f030
